@@ -10,15 +10,6 @@
 [submodule "tirlscripts-oxford-cliutils"]
 	path = tirlscripts-oxford-cliutils
 	url = https://github.com/inhuszar/tirlscripts-oxford-cliutils
-[submodule "tirlscripts-oxford-maldi"]
-	path = tirlscripts-oxford-maldi
-	url = https://github.com/inhuszar/tirlscripts-oxford-maldi
-[submodule "tirlscripts-oxford-monkey"]
-	path = tirlscripts-oxford-monkey
-	url = https://github.com/inhuszar/tirlscripts-oxford-monkey
-[submodule "tirlscripts-oxford-motorctx"]
-	path = tirlscripts-oxford-motorctx
-	url = https://github.com/inhuszar/tirlscripts-oxford-motorctx
 [submodule "tirlscripts-oxford-mouse"]
 	path = tirlscripts-oxford-mouse
 	url = https://github.com/inhuszar/tirlscripts-oxford-mouse
