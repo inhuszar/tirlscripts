@@ -30,7 +30,7 @@ MAN = "manchester"
 # Package definitions
 
 OXFORD_PACKAGES = [
-    "bigmac", "cliutils", "maldi", "mnd", "monkey", "motorctx",
+    "bigmac", "cliutils", "mnd",
     "mouse", "scriptutils", "segmentation", "slicealign", "tracer"
 ]
 MANCHESTER_PACKAGES = [
