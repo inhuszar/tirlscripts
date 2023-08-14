@@ -1,36 +1,36 @@
 [submodule "tirlscripts-oxford-mnd"]
 	path = tirlscripts-oxford-mnd
-	url = https://github.com/inhuszar/tirlscripts-oxford-mnd
+	url = git@github.com:inhuszar/tirlscripts-oxford-mnd
 [submodule "tirlscripts-manchester-nsurg"]
 	path = tirlscripts-manchester-nsurg
-	url = https://github.com/inhuszar/tirlscripts-manchester-nsurg
+	url = git@github.com:inhuszar/tirlscripts-manchester-nsurg
 [submodule "tirlscripts-oxford-bigmac"]
 	path = tirlscripts-oxford-bigmac
-	url = https://github.com/inhuszar/tirlscripts-oxford-bigmac
+	url = git@github.com:inhuszar/tirlscripts-oxford-bigmac
 [submodule "tirlscripts-oxford-cliutils"]
 	path = tirlscripts-oxford-cliutils
-	url = https://github.com/inhuszar/tirlscripts-oxford-cliutils
+	url = git@github.com:inhuszar/tirlscripts-oxford-cliutils
 [submodule "tirlscripts-oxford-maldi"]
 	path = tirlscripts-oxford-maldi
-	url = https://github.com/inhuszar/tirlscripts-oxford-maldi
+	url = git@github.com:inhuszar/tirlscripts-oxford-maldi
 [submodule "tirlscripts-oxford-monkey"]
 	path = tirlscripts-oxford-monkey
-	url = https://github.com/inhuszar/tirlscripts-oxford-monkey
+	url = git@github.com:inhuszar/tirlscripts-oxford-monkey
 [submodule "tirlscripts-oxford-motorctx"]
 	path = tirlscripts-oxford-motorctx
-	url = https://github.com/inhuszar/tirlscripts-oxford-motorctx
+	url = git@github.com:inhuszar/tirlscripts-oxford-motorctx
 [submodule "tirlscripts-oxford-mouse"]
 	path = tirlscripts-oxford-mouse
-	url = https://github.com/inhuszar/tirlscripts-oxford-mouse
+	url = git@github.com:inhuszar/tirlscripts-oxford-mouse
 [submodule "tirlscripts-oxford-scriptutils"]
 	path = tirlscripts-oxford-scriptutils
-	url = https://github.com/inhuszar/tirlscripts-oxford-scriptutils
+	url = git@github.com:inhuszar/tirlscripts-oxford-scriptutils
 [submodule "tirlscripts-oxford-segmentation"]
 	path = tirlscripts-oxford-segmentation
-	url = https://github.com/inhuszar/tirlscripts-oxford-segmentation
+	url = git@github.com:inhuszar/tirlscripts-oxford-segmentation
 [submodule "tirlscripts-oxford-slicealign"]
 	path = tirlscripts-oxford-slicealign
-	url = https://github.com/inhuszar/tirlscripts-oxford-slicealign
+	url = git@github.com:inhuszar/tirlscripts-oxford-slicealign
 [submodule "tirlscripts-oxford-tracer"]
 	path = tirlscripts-oxford-tracer
-	url = https://github.com/inhuszar/tirlscripts-oxford-tracer
+	url = git@github.com:inhuszar/tirlscripts-oxford-tracer
