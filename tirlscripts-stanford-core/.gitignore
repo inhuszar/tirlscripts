@@ -1,7 +1,0 @@
-.idea/
-dist/
-build/
-*.egg-info/
-*.pyc
-.DS_Store
-tirlscripts/oxford/mnd/__pycache__

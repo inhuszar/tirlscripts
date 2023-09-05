@@ -34,3 +34,6 @@
 [submodule "tirlscripts-oxford-tracer"]
 	path = tirlscripts-oxford-tracer
 	url = https://github.com/inhuszar/tirlscripts-oxford-tracer
+[submodule "tirlscripts-stanford-core"]
+	path = tirlscripts-stanford-core
+	url = ./tirlscripts-stanford-core
