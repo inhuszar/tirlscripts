@@ -19,17 +19,17 @@
 
 
 from setuptools import setup
-from tirlscripts.oxford.mnd import __version__
+from tirlscripts.stanford.core import __version__
 
 
 #---------------------------- TIRLscripts Installer ---------------------------#
 
 setup(
-    name="tirlscripts-oxford-mnd",
+    name="tirlscripts-stanford-core",
     version=__version__,
-    description="Four-stage histology-to-MRI registration pipeline for TIRL",
+    description="Utilities for 3D blockface-to-MRI registration",
     author="Istvan N. Huszar",
     author_email="istvan.huszar@ndcn.ox.ac.uk",
     license="Apache v2 Software License",
-    packages=["tirlscripts.oxford.mnd"]
+    packages=["tirlscripts.stanford.core"]
 )
